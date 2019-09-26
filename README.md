@@ -7,4 +7,4 @@
 2.[Dungeon Crawlers.](https://www.youtube.com/results?search_query=the+binding+of+isaac)
 3.[2D Fighters.](https://www.youtube.com/results?search_query=brawlhalla)
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![github][logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
